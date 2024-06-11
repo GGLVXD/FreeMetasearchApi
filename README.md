@@ -1,6 +1,7 @@
 # FreeMetasearchApi
 Free metasearch api at 
 https://api.ggsearch.eu.org
+
 limits: none
 
 
