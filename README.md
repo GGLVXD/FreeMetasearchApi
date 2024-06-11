@@ -6,6 +6,7 @@ limits: none
 
 # Example request:
 https://api.ggsearch.eu.org/search?q=query&start=1&safesearch=false&pages=1&category=general
+
 q = query of request,
 
 start = page of the request,
